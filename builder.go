@@ -30,7 +30,7 @@ import (
 
 	"github.com/Masterminds/semver/v3"
 	"github.com/caddyserver/xcaddy/internal/utils"
-	"github.com/caddy-dns/dnspod"
+	"github.com/caddy-dns/dnspod/dnspod.go"
 )
 
 // Builder can produce a custom Caddy build with the
